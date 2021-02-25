@@ -31,3 +31,15 @@ footer {
     text-align: center;
     font-family: 'Indie Flower', cursive;
 }
+
+/* Smartphones (portrait) ----------- */
+
+@media only screen and (max-width: 320px) {
+    h1 {
+        margin: 5px;
+        font-family: 'Lobster', cursive;
+        text-shadow: 5px 0 #232931;
+        font-size: 1.5rem;
+        color: #4ECCA3;
+    }
+}
